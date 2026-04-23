@@ -1,5 +1,5 @@
 {
-    "name": "fluent/logger",
+    "name": "koyhoge/fluent-logger-php",
     "type": "library",
     "description": "a logging library for Fluentd",
     "keywords": ["log","logging"],
